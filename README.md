@@ -4,7 +4,7 @@ UC Davis | Web Design Challenge
 
 For this challenge, I reviewed data from a previous project on the relationship between a city's weather trends and its proximity to the equator. I first updated the data in Pandas and the graphs in Matplotlib with today's date. I then used HTML, CSS, and Bootstrap to design a github pages site to review the data in a more user-friendly format.
 
-Click through the site here to review a deeper analysis of my findings: https://dunkin-gray.github.io/Web-Design-Challenge/HTML/index.html
+Click through the site here to review a deeper analysis of my findings: https://dunkin-gray.github.io/Web-design-challenge/HTML/index.html
 
 **Assets**
 

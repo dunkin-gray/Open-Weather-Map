@@ -57,7 +57,7 @@ body{
 }
 
 .nav-item.dropdown.show {
-    background-color: rgb(238, 238, 238);
+    background-color: #ddd;
 }
 
 .dropdown-menu {
@@ -67,7 +67,7 @@ body{
 /* small screen adjustments*/
 @media(max-width:991px){
     .navbar.bg-light{
-        background-color: rgb(25, 34, 89)!important;    
+        background-color: rgb(25, 34,89)!important;    
     }
 
     .navbar-collapse{
